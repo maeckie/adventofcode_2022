@@ -21,7 +21,7 @@ def part_2():
     print(sum(q[0:3]))
 
      
-
+part_1()
 part_2()    
 
     
